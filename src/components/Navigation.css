@@ -1,0 +1,15 @@
+.App-nav {
+    align-items: center;
+    display: flex;
+    float: left;
+    justify-content: space-between; 
+}
+
+.App-nav li {
+    display: inline;
+}
+
+.App-nav ul {
+    display: contents;
+    padding-inline-start: 0;
+}

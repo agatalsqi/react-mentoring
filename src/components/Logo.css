@@ -1,0 +1,12 @@
+.App-logo-figure {
+    text-align: center;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    float: left;
+}
+
+    .App-logo {
+        animation: App-logo-spin infinite 10s linear;
+        height: 3vmax;
+        pointer-events: none;
+    }

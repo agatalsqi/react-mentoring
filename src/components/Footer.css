@@ -1,0 +1,9 @@
+.App-footer {
+    flex-direction: column;
+    margin-top: auto;
+}
+
+.Footer-wrapper {
+    display: flex;
+    flex-direction: row;
+}
